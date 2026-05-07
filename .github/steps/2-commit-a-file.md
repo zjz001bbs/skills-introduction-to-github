@@ -22,7 +22,7 @@ _你已经成功创建了一个分支! :tada:_
 
 2. 点击 **Add file** 下拉菜单，选择 **Create new file** 。
 
-   <img width="300" alt="screenshot of the create new file option" src="../images/create-new-file-option.png">
+   <img width="300" alt="screenshot of the create new file option" src="https://github.com/zjz001bbs/skills-introduction-to-github/blob/main/.github/images/create-new-file-option.png?raw=true">
 
 3. 在 **Name your file...** 输入框中填写文件名： `PROFILE.md`.
 
@@ -32,13 +32,13 @@ _你已经成功创建了一个分支! :tada:_
    Welcome to my GitHub profile!
    ```
 
-   ![screenshot for adding the profile.md file](../images/add-profile-file.png)
+   ![screenshot for adding the profile.md file](https://github.com/zjz001bbs/skills-introduction-to-github/blob/main/.github/images/add-profile-file.png?raw=true)
 
 5. 在页面右上方，点击 **Commit changes...**。
 在弹出的提交界面中，你可以填写一条简短的信息来说明这次提交的内容。
 虽然 GitHub 会自动生成一条默认信息，但这次我们自己写一条，输入： `Add PROFILE.md`。
 
-   <img width="400" alt="screenshot of adding a new file with a commit message" src="../images/commit-message-dialog.png">
+   <img width="400" alt="screenshot of adding a new file with a commit message" src="https://github.com/zjz001bbs/skills-introduction-to-github/blob/main/.github/images/commit-message-dialog.png?raw=true">
 
 6. 本节我们暂时不用关心其他选项，直接点击 **Commit changes**。
 7. 现在你已经完成了文件的修改，Mona 会自动开始检查你的任务。稍等片刻，她会在评论中回复进度与下一步任务。

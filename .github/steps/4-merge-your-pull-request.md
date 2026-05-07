@@ -9,7 +9,7 @@ You successfully created a pull request. Now it's time to merge it!
 **什么是合并(merge)?**: [合并（merge）](https://docs.github.com/en/get-started/quickstart/github-glossary#merge)_ 的过程，就是把你分支上的改动整合进 main 分支。
 一旦合并完成，你的修改就会成为主分支的一部分。更多详细说明可参阅 "[Merging a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request)"。
 
-![screenshot of green merge pull request button](../images/merge-pull-request-button.png)
+![screenshot of green merge pull request button](https://github.com/zjz001bbs/skills-introduction-to-github/blob/main/.github/images/merge-pull-request-button.png?raw=true)
 
 ### :keyboard: 实操环节: Merge the pull request
 
@@ -23,7 +23,7 @@ You successfully created a pull request. Now it's time to merge it!
 
 3. 当分支成功合并到 `main` 后，这个分支就没用了，你可以点击 Delete branch 将其删除。
 
-   ![screenshot showing delete branch button](../images/delete-branch-button.png)
+   ![screenshot showing delete branch button](https://github.com/zjz001bbs/skills-introduction-to-github/blob/main/.github/images/delete-branch-button.png?raw=true)
 
 4. 现在你的工作已经被合并了，Mona 会进行确认并给出一些最终的审查内容。做得不错！🎉
 

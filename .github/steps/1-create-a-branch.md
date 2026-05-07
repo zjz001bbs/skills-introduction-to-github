@@ -20,24 +20,24 @@ _欢迎来到 "GitHub 入门课程"! :wave:_
 **什么是 Profile README？**: _[Profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ 是 GitHub 个人主页上的自我介绍部分。你可以在这里展示自己的信息、项目或兴趣。
 GitHub 会把它显示在你个人主页的顶部。更多内容可参考 "[管理个人资料自述文件](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
 
-![screenshot showing an example profile readme](../images/example-profile-readme.png)
+![screenshot showing an example profile readme](https://github.com/zjz001bbs/skills-introduction-to-github/blob/main/.github/images/example-profile-readme.png?raw=true)
 
 ### :keyboard: 实操环节：创建你的第一个分支
 
 1. 打开一个新的浏览器标签页，进入你刚创建的仓库。保持这个页面不关，边看步骤边操作。
 2. 在仓库顶部导航栏中，点击 **< > Code** 选项。
 
-   ![screenshot highlighting the code tab](../images/code-tab-highlight.png)
+   ![screenshot highlighting the code tab](https://github.com/zjz001bbs/skills-introduction-to-github/blob/main/.github/images/code-tab-highlight.png?raw=true)
 
 3. 点击 **main** 分支的下拉菜单。
 
-   <img width="300" alt="screenshot highlighting the branch selection" src="../images/branch-selection-dropdown.png">
+   <img width="300" alt="screenshot highlighting the branch selection" src="https://github.com/zjz001bbs/skills-introduction-to-github/blob/main/.github/images/branch-selection-dropdown.png?raw=true">
 
 4. 在输入框中输入新分支名 `my-first-branch`。注意：必须使用这个名字，才能触发课程后续流程。
 
 5. 点击 **Create branch: my-first-branch** 按钮来创建分支。
 
-   <img width="300" alt="screenshot highlighting the create branch prompt" src="../images/create-branch-prompt.png">
+   <img width="300" alt="screenshot highlighting the create branch prompt" src="https://github.com/zjz001bbs/skills-introduction-to-github/blob/main/.github/images/create-branch-prompt.png?raw=true">
 
 6. 分支推送到 GitHub 后，Mona 会自动开始检查你的任务。稍等片刻，她会在评论中回复进度与下一步任务。
 

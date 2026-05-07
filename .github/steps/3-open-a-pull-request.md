@@ -12,7 +12,7 @@ _你已经完成提交，干得漂亮! :sparkles:_
 
 您可能已经注意到，提交完成后 GitHub 会在页面上方提示 “你刚刚推送了新提交”，并显示一个按钮 **Compare & pull request**。
 
-![screenshot of message and button](../images/compare-pull-request-button.png)
+![screenshot of message and button](https://github.com/zjz001bbs/skills-introduction-to-github/blob/main/.github/images/compare-pull-request-button.png?raw=true)
 
 如果点击这个按钮，GitHub 会自动为你创建一个 Pull Request，跳过后续的大部分步骤（直接看第 6 步）。
 如果你想手动创建，请按下面步骤操作：
@@ -23,13 +23,13 @@ _你已经完成提交，干得漂亮! :sparkles:_
    - **base:** `main` （表示目标分支）
    - **compare:** `my-first-branch`
 
-   ![screenshot showing both branch selections](../images/branch-selection-comparison.png)
+   ![screenshot showing both branch selections](https://github.com/zjz001bbs/skills-introduction-to-github/blob/main/.github/images/branch-selection-comparison.png?raw=true)
 
 4. 点击 **Create pull request**。
 5. 为你的 Pull Request 添加标题。默认标题是分支名，这里可以改成 `Add my first file`.
 6. 下面输入框中输入描述性的话，说明你做了那些修改
 
-   ![screenshot showing pull request](../images/create-pull-request-form.png)
+   ![screenshot showing pull request](https://github.com/zjz001bbs/skills-introduction-to-github/blob/main/.github/images/create-pull-request-form.png?raw=true)
 
 7. 点击 **Create pull request**。然后页面会自动跳转到你新建的拉取请求
 
